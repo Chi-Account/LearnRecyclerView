@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LearnRecyclerView</string>
+    <string name="add">添加</string>
+    <string name="remove">移除</string>
+    <string name="add_header">添加 Header</string>
+    <string name="add_footer">添加 Footer</string>
+</resources>
